@@ -45,6 +45,12 @@ TagManager:
   - name: Tilemap_Piso
     uniqueID: 4044198107
     locked: 0
+  - name: Limite3
+    uniqueID: 385642615
+    locked: 0
+  - name: Limite2
+    uniqueID: 998137953
+    locked: 0
   - name: Tilemap_Limite
     uniqueID: 3045201247
     locked: 0
