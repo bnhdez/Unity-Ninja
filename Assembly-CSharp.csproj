@@ -144,6 +144,7 @@
     <Compile Include="Assets\Scripts\Loot\LootManager.cs" />
     <Compile Include="Assets\Scripts\Tienda\TiendaManager.cs" />
     <Compile Include="Assets\Scripts\Quests\InspectorQuestDescripcion.cs" />
+    <Compile Include="Assets\MenuInicial.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
