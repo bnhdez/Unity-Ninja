@@ -40637,7 +40637,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1882950949}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.6698867, y: -0.000000059604645, z: -10}
+  m_LocalPosition: {x: -0.5000001, y: -0.000000059604645, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -40711,6 +40711,8 @@ MonoBehaviour:
   npcIcono: {fileID: 1028399226}
   npcNombreTMP: {fileID: 1594274259}
   npcConversacionTMP: {fileID: 1405282802}
+  jugador: {fileID: 2032975353}
+  distanciaMaxima: 5
 --- !u!4 &1884185546
 Transform:
   m_ObjectHideFlags: 0
