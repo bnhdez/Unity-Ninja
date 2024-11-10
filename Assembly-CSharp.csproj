@@ -131,6 +131,7 @@
     <Compile Include="Assets\Scripts\IA\Decisiones\DecisionDetectarPersonaje.cs" />
     <Compile Include="Assets\BayatGames\SaveGameFree\Scripts\Encoders\ISaveGameEncoder.cs" />
     <Compile Include="Assets\BayatGames\SaveGameFree\Scripts\Serializers\SaveGameBinarySerializer.cs" />
+    <Compile Include="Assets\MenuInicial.cs" />
     <Compile Include="Assets\Scripts\IA\Acciones\AccionSeguirPersonaje.cs" />
     <Compile Include="Assets\Scripts\Personaje\PersonajeStats.cs" />
     <Compile Include="Assets\Scripts\Managers\UIManager.cs" />
@@ -144,7 +145,6 @@
     <Compile Include="Assets\Scripts\Loot\LootManager.cs" />
     <Compile Include="Assets\Scripts\Tienda\TiendaManager.cs" />
     <Compile Include="Assets\Scripts\Quests\InspectorQuestDescripcion.cs" />
-    <Compile Include="Assets\MenuInicial.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
