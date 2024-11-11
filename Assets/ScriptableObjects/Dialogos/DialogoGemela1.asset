@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68ad14c7eba37e143aed853c64e3ee1f, type: 3}
+  m_Name: DialogoGemela1
+  m_EditorClassIdentifier: 
+  Nombre: Ana
+  Icono: {fileID: 21300000, guid: 96e54746dcc5afc4a938b1f40bf02d2f, type: 3}
+  ContieneInteraccionExtra: 0
+  InteraccionExtra: 0
+  Saludo: Hola ayudame mi casa ha sido conquistada por los monstruos, mi hermana
+    esta del otro lado, salvalaaa (Barra espaciadora para continuar)
+  Conversacion:
+  - Oracion: Matar a los monstruos te puede dar experiencia para hacerte mas fuerte,
+      ella te puede dar mas consejos de que hacer con esa experiencia (Barra espaciadora
+      para continuar)
+  Despedida: Por favor ayudanos, te aconsejo que hables con el inspector el te puede
+    ayudar antes de entrar al bosque!!

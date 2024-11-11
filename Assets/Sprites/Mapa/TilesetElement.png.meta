@@ -299,6 +299,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1634,7 +1646,7 @@ TextureImporter:
         width: 32
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1655,7 +1667,7 @@ TextureImporter:
         width: 32
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1676,7 +1688,7 @@ TextureImporter:
         width: 32
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1684,6 +1696,27 @@ TextureImporter:
       bones: []
       spriteID: 9248d559e668fd370800000000000000
       internalID: 8349540043678647337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetElement_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9da526efb93f64fa4bfba15f5f547d
+      internalID: -1815016726
       vertices: []
       indices: 
       edges: []
@@ -1705,6 +1738,7 @@ TextureImporter:
       TilesetElement_8: -7036284102251955318
       TilesetElement_44: 6612303582927046098
       TilesetElement_14: -1288426764183451208
+      TilesetElement_2: -1815016726
       TilesetElement_15: 932801153500757484
       Escalera: 5740931372370905976
       TilesetElement_19: -1181785332027552282
@@ -1726,9 +1760,9 @@ TextureImporter:
       TilesetElement_51: -5834001730206781847
       TilesetElement_10: -7393123667822017851
       TilesetElement_32: -1177095926893694163
+      Cajon: 8349540043678647337
       TilesetElement_28: 8676393935889203882
       TilesetElement_46: 3026858082196701982
-      Cajon: 8349540043678647337
       TilesetElement_66: 8569968915611447383
       TilesetElement_23: 8130591403050335115
       TilesetElement_45: 4595064620167516200

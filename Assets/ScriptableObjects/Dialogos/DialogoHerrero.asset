@@ -16,6 +16,6 @@ MonoBehaviour:
   Icono: {fileID: 21300000, guid: 31afba58e7749354e84d6e68734e44c1, type: 3}
   ContieneInteraccionExtra: 1
   InteraccionExtra: 2
-  Saludo: Bienvenido, deseas crear algo?
+  Saludo: Bienvenido, deseas crear algo? (Barra espaciadora para continuar)
   Conversacion: []
   Despedida: 

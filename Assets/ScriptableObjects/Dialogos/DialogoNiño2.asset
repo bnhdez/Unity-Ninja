@@ -13,12 +13,11 @@ MonoBehaviour:
   m_Name: "DialogoNi\xF1o2"
   m_EditorClassIdentifier: 
   Nombre: Raul
-  Icono: {fileID: 21300000, guid: ded68971a8ae4734ca18d1c8ac3b456f, type: 3}
+  Icono: {fileID: 21300000, guid: 72b7fa761a6e85542bc5c75bcf7b4386, type: 3}
   ContieneInteraccionExtra: 0
   InteraccionExtra: 0
-  Saludo: Hola amigo!
+  Saludo: Hola amigo! (Barra espaciadora para continuar)
   Conversacion:
-  - Oracion: Mi hermano me presto su barco de juguete para probarlo en el lago del
-      pueblo.
-  - Oracion: Aun no llega, lo estoy esperando.
-  Despedida: Un gusto haber hablado contigo.
+  - Oracion: Dicen que hay una espada legendaria en una de las primeras casitas de
+      la aldea (Barra espaciadora para continuar)
+  Despedida: Necesitamos de un heroe

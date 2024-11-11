@@ -10,6 +10,8 @@ public class PersonajeVida : VidaBase
 
     private BoxCollider2D _boxCollider2D;
 
+    public event EventHandler MuerteJugador;
+
     private void Awake()
     {
         _boxCollider2D = GetComponent<BoxCollider2D>();
@@ -58,6 +60,7 @@ public class PersonajeVida : VidaBase
         _boxCollider2D.enabled = false;
         Derrotado = true;
         EventoPersonajeDerrotado?.Invoke();
+        MuerteJugador?.Invoke(this, EventArgs.Empty);
     }
 
     public void RestaurarPersonaje()

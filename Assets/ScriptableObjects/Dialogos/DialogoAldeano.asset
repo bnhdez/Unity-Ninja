@@ -16,9 +16,9 @@ MonoBehaviour:
   Icono: {fileID: 21300000, guid: 7fd0bd3c0a118fe408e43787f5c33aaa, type: 3}
   ContieneInteraccionExtra: 0
   InteraccionExtra: 0
-  Saludo: "Hola Compa\xF1ero!"
+  Saludo: "Hola Compa\xF1ero, este Dojo se ha convertido en la base de los maleantes
+    (Barra espaciadora para continuar)"
   Conversacion:
-  - Oracion: Mi abuelo me contaba historias sobre valientes que se adentraban al
-      bosque en busca de aventuras.
-  - Oracion: De grande espero ser uno de esos VALIENTES.
-  Despedida: Ya no te molesto mas con mis historias, un gusto verte.
+  - Oracion: Mi abuelo me contaba historias sobre un ex lider de los yakuza que una
+      vez intento conquistar el pueblo. (Barra espaciadora para continuar)
+  Despedida: Necesitamos ayuda!!!

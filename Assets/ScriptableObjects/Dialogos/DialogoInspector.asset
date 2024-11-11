@@ -17,5 +17,6 @@ MonoBehaviour:
   ContieneInteraccionExtra: 1
   InteraccionExtra: 0
   Saludo: Hola aventurero, tengo algunas misiones interesantes que te podrian gustar.
+    (Barra espaciadora para continuar)
   Conversacion: []
   Despedida: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68ad14c7eba37e143aed853c64e3ee1f, type: 3}
+  m_Name: DialogoGemela2
+  m_EditorClassIdentifier: 
+  Nombre: Marta
+  Icono: {fileID: 21300000, guid: 96e54746dcc5afc4a938b1f40bf02d2f, type: 3}
+  ContieneInteraccionExtra: 0
+  InteraccionExtra: 0
+  Saludo: Gracias por salvarme, solo por eso te consejos (Barra espaciadora para
+    continuar)
+  Conversacion:
+  - Oracion: Con la experiencia gana puedes aumentar atributos suficientes para enfrentar
+      el dojo (Barra espaciadora para continuar)
+  - Oracion: En el Dojo hay comerciantes que te ayudaran a comprar pociones y mana
+      (Barra espaciadora para continuar)
+  Despedida: Gracias por la ayuda, dicen que en el Dojo hay un libro que tira bolas
+    de fuego

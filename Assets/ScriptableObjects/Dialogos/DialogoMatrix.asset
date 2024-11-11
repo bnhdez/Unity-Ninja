@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68ad14c7eba37e143aed853c64e3ee1f, type: 3}
+  m_Name: DialogoMatrix
+  m_EditorClassIdentifier: 
+  Nombre: Matrix
+  Icono: {fileID: 21300000, guid: 69f7e6388bd25fb40bf2b55334c6e317, type: 3}
+  ContieneInteraccionExtra: 0
+  InteraccionExtra: 0
+  Saludo: "Hola amigo, soy la matrix te ense\xF1are a como jugar (Barra espaciadora
+    para continuar)"
+  Conversacion:
+  - Oracion: Tienes que conocer tus controles para poder salvar la aldea (Barra)
+  - Oracion: "Siempre presiona barra espaciadora al hablar con alquien, asi terminar
+      la conversaci\xF3n"
+  - Oracion: 'Primero como pelear
+
+      Existen dos tipos de ataques a corto alcance
+      con la espada y a largo alcance con el libro, para pegar con la espada debes
+      de acercarte a un enemigo  (Barra) '
+  - Oracion: Y presionar barra espaciadora, y para atacar con el libro debes de hacer
+      click al enemigo que vas a atacar y presionar barra (Barra) espaciadora
+  - Oracion: 'Como equiparse objetos
+
+      Abajo a la derecha tienes tu panel de
+      caracteristicas, inventario, stats y misiones (Barra)'
+  - Oracion: Si te quieres equipar la espada, presiona el panel del inventario, primero
+      a la izquierda, selecciona la espada (Barra)
+  - Oracion: "Abajo te aparecera la opci\xF3n de equipar, si lo quieres quitar y
+      equipar otro objeto presiona remover, ten mucho cuidado (Barra)"
+  - Oracion: Los Dioses dejaron un castigo si presionas usar en un arma, esta sera
+      usada y desaparecera (Barra)
+  - Oracion: Solo presiona usar con la vida y el mana, no lo olvides (Barra)
+  - Oracion: Ahora explora y descubre con los aldeanos y enemigos todas tus posibilidades
+      (Barra)
+  - Oracion: "Ultimo consejo, los enemigos tienen dos tipos de ataque a distancia
+      atacando por da\xF1o en area (Barra)"
+  - Oracion: Y a corta distancia con embestidas
+  - Oracion: al matar enemigos dejan una sombra gris, al hacer click puedes ver el
+      loot que te dejaron
+  Despedida: Suerte en tu aventura solo tienes un chance
